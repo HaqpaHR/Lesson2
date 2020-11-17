@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const answer1 = prompt('Введите год рождения');
 
 console.log(answer1);
@@ -7,3 +8,6 @@ let numbers = answer1.split(re);
 
 console.log(numbers);
 
+=======
+console.log('Deleted');
+>>>>>>> master
